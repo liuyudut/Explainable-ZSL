@@ -2,12 +2,14 @@
 
 ![architecture](https://github.com/Liuy8/Explainable-ZSL/blob/master/diversity_consistency.pdf)
 
-![stack Overflow](http://lmsotfy.com/so.png)
+This repository is the PyTorch implementation for the paper [A Deep Multi-modal Explanation Model for Zero-shot Learning](https://ieeexplore.ieee.org/document/9018377) in IEEE Transactions on Image Processing (TIP), 2020. 
 
-This repo contains the Pytorch source code for the paper [A Deep Multi-modal Explanation Model for Zero-shot Learning](https://ieeexplore.ieee.org/document/9018377) in IEEE Transactions on Image Processing (TIP), 2020. 
+In this project, we provide the data, source codes and Grad-CAM visualization.
 
-In this project, we provide the data, implementation details and Grad-CAM visualization.
+## Dependencies
 
+- PyTorch 
+- Python 
 
 ## Data
 
@@ -28,5 +30,7 @@ will affect the correct alignment of visual explanations afterwards.
 - Run ```.\Grad-CAM\gradcam_resnet101.py``` to generate the visual explanation.
 
 ## Notes
+
+This repo is based on the codebase of [f-CLSWGAN](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/feature-generating-networks-for-zero-shot-learning/)
 
 More instructions will be provided later.

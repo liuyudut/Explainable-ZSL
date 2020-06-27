@@ -1,5 +1,7 @@
 # A Deep Multi-modal Explanation Model for Zero-shot Learning
 
+![architecture](./diversity_consistency.pdf)
+
 This repo contains the Pytorch source code for the paper [A Deep Multi-modal Explanation Model for Zero-shot Learning](https://ieeexplore.ieee.org/document/9018377) in IEEE Transactions on Image Processing (TIP), 2020. 
 
 In this project, we provide the data, implementation details and Grad-CAM visualization.

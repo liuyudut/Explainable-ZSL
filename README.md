@@ -1,6 +1,6 @@
 # A Deep Multi-modal Explanation Model for Zero-shot Learning
 
-![architecture](https://github.com/Liuy8/Explainable-ZSL/blob/master/diversity_consistency.pdf)
+![architecture](https://github.com/Liuy8/Explainable-ZSL/blob/master/diversity_consistency.png)
 
 This repository is the PyTorch implementation for the paper [A Deep Multi-modal Explanation Model for Zero-shot Learning](https://ieeexplore.ieee.org/document/9018377) in IEEE Transactions on Image Processing (TIP), 2020. 
 
